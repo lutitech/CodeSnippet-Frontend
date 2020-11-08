@@ -44,7 +44,7 @@ class Process extends React.Component {
                     </div>
                 </div>
                 <div className="text-center mx-auto">
-                <Link to="JavaScript:Void(0);" className="btn btn-custom waves-light waves-effect margin-t-50">Get Started <i className="mdi mdi-arrow-right"></i></Link>
+                <Link to="" className="btn btn-custom waves-light waves-effect margin-t-50">Get Started <i className="mdi mdi-arrow-right"></i></Link>
                 </div>
             </div>
         </div>
