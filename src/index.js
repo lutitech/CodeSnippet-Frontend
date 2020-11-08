@@ -7,7 +7,7 @@ import HomeFour from './HomeFour';
 import HomeFive from './HomeFive';
 import HomeSix from './HomeSix';
 import HomeSeven from './HomeSeven';
-import HomeEight from './HomeEight';
+
 import HomeNine from './HomeNine';
 import Login from './Login';
 import SignUp from './SignUp';
