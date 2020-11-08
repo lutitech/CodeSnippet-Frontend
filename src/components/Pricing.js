@@ -17,49 +17,49 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box hover-effect">
                         <h4 className="text-uppercase">Digital Marketing</h4>
-                        <h1>$9.90</h1>
+                        <h1>20,000 </h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
-                            <p>Bandwidth: <b className="text-custom">1GB</b></p>
-                            <p>Onlinespace: <b className="text-custom">50MB</b></p>
-                            <p>Support: <b className="text-custom">No</b></p>
-                            <p><b className="text-custom">1</b> Domain</p>
-                            <p><b className="text-custom">No</b> Hidden Fees</p>
+                            <p>SEO<b className="text-custom"></b></p>
+                            <p>:SEM <b className="text-custom"></b></p>
+                            <p>Facebook<b className="text-custom"></b></p>
+                            <p>Twitter<b className="text-custom"></b></p>
+                            <p>Instagram<b className="text-custom"></b> </p>
                         </div>
-                        <Link to="" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
+                        <Link to="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>
                 </div>
                 <div className="col-lg-4">
                     <div className="text-center pricing-box bg-white hover-effect price-active">
-                        <h4 className="text-uppercase">Moblie Develoment</h4>
-                        <h1>$19.90</h1>
+                        <h4 className="text-uppercase">Web Develoment</h4>
+                        <h1>#45,000</h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
-                            <p>Bandwidth: <b className="text-custom">10GB</b></p>
-                            <p>Onlinespace: <b className="text-custom">500MB</b></p>
-                            <p>Support: <b className="text-custom">Yes</b></p>
-                            <p><b className="text-custom">10</b> Domain</p>
-                            <p><b className="text-custom">No</b> Hidden Fees</p>
+                            <p>XML <b className="text-custom"></b></p>
+                            <p>JAVA <b className="text-custom"></b></p>
+                            <p>KOTLIN<b className="text-custom"></b></p>
+                            <p>SWIFT<b className="text-custom"></b> </p>
+                            <p>DART<b className="text-custom"></b> </p>
                         </div>
-                        <Link to="" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
+                        <Link to="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>
                 </div>
                 <div className="col-lg-4">
                     <div className="text-center pricing-box hover-effect">
-                        <h4 className="text-uppercase">Web Development</h4>
-                        <h1>$29.90</h1>
+                        <h4 className="text-uppercase">Mobile Development</h4>
+                        <h1>#78,000</h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
-                            <p>Bandwidth: <b className="text-custom">100GB</b></p>
-                            <p>Onlinespace: <b className="text-custom">2 GB</b></p>
-                            <p>Support: <b className="text-custom">Yes</b></p>
-                            <p><b className="text-custom">Unlimited</b> Domain</p>
-                            <p><b className="text-custom">No</b> Hidden Fees</p>
+                            <p>HTML <b className="text-custom"></b></p>
+                            <p>CSS <b className="text-custom"></b></p>
+                            <p>Javascript <b className="text-custom"></b></p>
+                            <p>PHP<b className="text-custom"></b> Domain</p>
+                            <p>MYSQL<b className="text-custom"></b> </p>
                         </div>
-                        <a href="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</a>
+                        <Link to="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>
                 </div>
             </div>
