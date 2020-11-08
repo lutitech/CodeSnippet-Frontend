@@ -40,7 +40,7 @@ class HomeFive extends React.Component {
                                         <div className="col-lg-8 offset-lg-2 text-white text-center">
                                             <h1 className="home-title">We help startups launch their products</h1>
                                             <p className="padding-t-15 home-desc">Etiam sed.Interdum consequat proin vestibulum className at a euismod mus luctus quam.Lorem ipsum dolor sit amet, consectetur adipisicing eli.</p>
-                                            <Link to="JavaScript:Void(0);" className="btn btn-custom margin-t-20">Get Started</Link>
+                                            <Link to="" className="btn btn-custom margin-t-20">Get Started</Link>
                                             <img src="images/home-dashboard.png" alt="" className="img-fluid center-block margin-t-20" />  
                                         </div>
                                     </div>
