@@ -23,7 +23,7 @@ class Pricing extends React.Component {
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
                             <p>SEO<b className="text-custom"></b></p>
-                            <p>:SEM <b className="text-custom"></b></p>
+                            <p>SEM <b className="text-custom"></b></p>
                             <p>Facebook<b className="text-custom"></b></p>
                             <p>Twitter<b className="text-custom"></b></p>
                             <p>Instagram<b className="text-custom"></b> </p>
