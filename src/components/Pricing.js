@@ -27,7 +27,7 @@ class Pricing extends React.Component {
                             <p><b className="text-custom">1</b> Domain</p>
                             <p><b className="text-custom">No</b> Hidden Fees</p>
                         </div>
-                        <a href="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</a>
+                        <Link to="" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>
                 </div>
                 <div className="col-lg-4">
@@ -43,7 +43,7 @@ class Pricing extends React.Component {
                             <p><b className="text-custom">10</b> Domain</p>
                             <p><b className="text-custom">No</b> Hidden Fees</p>
                         </div>
-                        <a href="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</a>
+                        <Link to="" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>
                 </div>
                 <div className="col-lg-4">

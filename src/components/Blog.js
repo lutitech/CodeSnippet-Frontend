@@ -20,10 +20,10 @@ class Blog extends React.Component {
                             <img src="images/blog/img-1.jpg" className="img-fluid" alt="" />
                             <div>
                                 <h5 className="mt-4 text-muted">UI & UX Design</h5>
-                                <h4 className="mt-3"><Link to="JavaScript:Void(0);" className="blog-title"> Doing a cross country road trip </Link></h4>
+                                <h4 className="mt-3"><Link to="" className="blog-title"> Doing a cross country road trip </Link></h4>
                                 <p className="text-muted">She packed her seven versalia, put her initial into the belt and made herself on the way..</p>
                                 <div className="mt-3">
-                                    <a href="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></a>
+                                    <Link to="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></Link>
                                 </div>
                             </div>
                         </div>
@@ -34,10 +34,10 @@ class Blog extends React.Component {
                             <img src="images/blog/img-2.jpg" className="img-fluid" alt="" />
                             <div>
                                 <h5 className="mt-4 text-muted">Digital Marketing</h5>
-                                <h4 className="mt-3"><Link to="JavaScript:Void(0);" className="blog-title">New exhibition at our Museum</Link></h4>
+                                <h4 className="mt-3"><Link to="" className="blog-title">New exhibition at our Museum</Link></h4>
                                 <p className="text-muted">Pityful a rethoric question ran over her cheek, then she continued her way.</p>
                                 <div className="mt-3">
-                                    <Link to="JavaScript:Void(0);" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></Link>
+                                    <Link to="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></Link>
                                 </div>
                             </div>
                         </div>
@@ -48,10 +48,10 @@ class Blog extends React.Component {
                             <img src="images/blog/img-3.jpg" className="img-fluid" alt="" />
                             <div>
                                 <h5 className="mt-4 text-muted">Travelling</h5>
-                                <h4 className="mt-3"><Link to="JavaScript:Void(0);"className="blog-title">Why are so many people..</Link></h4>
+                                <h4 className="mt-3"><Link to=""className="blog-title">Why are so many people..</Link></h4>
                                 <p className="text-muted">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                                 <div className="mt-3">
-                                    <Link to="JavaScript:Void(0);" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></Link>
+                                    <Link to="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></Link>
                                 </div>
                             </div>
                         </div>

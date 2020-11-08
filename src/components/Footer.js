@@ -14,7 +14,7 @@ class Footer extends React.Component {
                                 <li><Link to="">Home</Link></li>
                                 <li><Link to="">About us</Link></li>
                                 <li><Link to="">Careers</Link></li>
-                                <li><Link to="JavaScript:Void(0);">Contact us</Link></li>
+                                <li><Link to="">Contact us</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -22,10 +22,10 @@ class Footer extends React.Component {
                         <h4>Information</h4>
                         <div className="text-muted margin-t-20">
                             <ul className="list-unstyled footer-list">
-                                <li><Link to="JavaScript:Void(0);">Terms & Condition</Link></li>
-                                <li><Link to="JavaScript:Void(0);">About us</Link></li>
-                                <li><Link to="JavaScript:Void(0);">Jobs</Link></li>
-                                <li><Link to="JavaScript:Void(0);">Bookmarks</Link></li>
+                                <li><Link to="">Terms & Condition</Link></li>
+                                <li><Link to="">About us</Link></li>
+                                <li><Link to="">Jobs</Link></li>
+                                <li><Link to="">Bookmarks</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -33,9 +33,9 @@ class Footer extends React.Component {
                         <h4>Support</h4>
                         <div className="text-muted margin-t-20">
                             <ul className="list-unstyled footer-list">
-                                <li><Link to="JavaScript:Void(0);">FAQ</Link></li>
-                                <li><Link to="JavaScript:Void(0);">Contact</Link></li>
-                                <li><Link to="JavaScript:Void(0);">Disscusion</Link></li>
+                                <li><Link to="">FAQ</Link></li>
+                                <li><Link to="">Contact</Link></li>
+                                <li><Link to="">Disscusion</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ class Footer extends React.Component {
                         </div>
                         <form className="form subscribe">
                             <input placeholder="Email" className="form-control" required />
-                            <Link to="JavaScript:Void(0);" className="submit"><i className="pe-7s-paper-plane"></i></Link>
+                            <Link to="" className="submit"><i className="pe-7s-paper-plane"></i></Link>
                         </form>
                     </div>
                 </div>

@@ -35,7 +35,7 @@ class HomeFour extends React.Component {
                                     <div className="col-lg-7 text-white text-left margin-t-30">
                                         <h1 className="home-title">We help startups launch their products</h1>
                                         <p className="padding-t-15 home-desc home-subtitle-width-100">Etiam sed.Interdum consequat proin vestibulum className at a euismod mus luctus quam.Lorem ipsum dolor sit amet, consectetur adipisicing eli.</p>
-                                        <Link to="JavaScript:Void(0);" className="btn btn-custom margin-t-30 waves-effect waves-light">Get Started <i className="mdi mdi-arrow-right"></i></Link>
+                                        <Link to="" className="btn btn-custom margin-t-30 waves-effect waves-light">Get Started <i className="mdi mdi-arrow-right"></i></Link>
                                     </div>
                                     <div className="col-lg-4 offset-lg-1 margin-t-30">
                                         <div className="home-registration-form bg-white">
