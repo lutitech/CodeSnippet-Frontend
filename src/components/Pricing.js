@@ -17,7 +17,7 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box hover-effect">
                         <h4 className="text-uppercase">Digital Marketing</h4>
-                        <h1>20,000 </h1>
+                        <h1><span>&#8358</span>20,000 </h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
@@ -33,7 +33,7 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box bg-white hover-effect price-active">
                         <h4 className="text-uppercase">Web Develoment</h4>
-                        <h1>#45,000</h1>
+                        <h1><span>&#8358</span>45,000</h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
@@ -49,7 +49,7 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box hover-effect">
                         <h4 className="text-uppercase">Mobile Development</h4>
-                        <h1>#78,000</h1>
+                        <h1><span>&#8358</span>78,000</h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
