@@ -11,9 +11,9 @@ class Footer extends React.Component {
                         <h4>DORSIN</h4>
                         <div className="text-muted margin-t-20">
                             <ul className="list-unstyled footer-list">
-                                <li><Link to="JavaScript:Void(0);">Home</Link></li>
-                                <li><Link to="JavaScript:Void(0);">About us</Link></li>
-                                <li><Link to="JavaScript:Void(0);">Careers</Link></li>
+                                <li><Link to="">Home</Link></li>
+                                <li><Link to="">About us</Link></li>
+                                <li><Link to="">Careers</Link></li>
                                 <li><Link to="JavaScript:Void(0);">Contact us</Link></li>
                             </ul>
                         </div>

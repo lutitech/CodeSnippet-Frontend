@@ -9,33 +9,33 @@ class Switcher extends React.Component {
                 <h3>Select your color</h3>
                 <ul className="pattern">
                     <li>
-                    <Link to="JavaScript:Void(0);" className="color1" ></Link>
+                    <a href="" className="color1" ></a>
                     </li>
                     <li>
-                    <Link to="JavaScript:Void(0);"  className="color2"></Link>
+                    <a href="" className="color1" ></a>
                     </li>
                     <li>
-                       <Link to="JavaScript:Void(0);" className="color3"></Link>
+                    <a href="" className="color1" ></a>>
                     </li>
                     <li>
-                       <Link to="JavaScript:Void(0);" className="color4"></Link>
+                    <a href="" className="color1" ></a>
                     </li>
                     <li>
-                        <Link to="JavaScript:Void(0);" className="color5"></Link>
+                    <a href="" className="color1" ></a>
                     </li>
                     <li>
-                       <Link to="JavaScript:Void(0);"  className="color6"></Link>
+                    <a href="" className="color1" ></a>
                     </li> 
                     <li>
-                       <Link to="JavaScript:Void(0);" className="color7"></Link>
+                    <a href="" className="color1" ></a>
                     </li>
                     <li>
-                       <Link to="JavaScript:Void(0);"  className="color8"></Link>
+                    <a href="" className="color1" ></a>
                     </li>                    
                 </ul>
             </div>
             <div className="bottom">
-            <a href="#" className="settings"><i className="mdi mdi-settings mdi-spin"></i></a>
+            <a href="" className="settings"><i className="mdi mdi-settings mdi-spin"></i></a>
             </div>
         </div>
   	);

@@ -23,7 +23,7 @@ class Blog extends React.Component {
                                 <h4 className="mt-3"><Link to="JavaScript:Void(0);" className="blog-title"> Doing a cross country road trip </Link></h4>
                                 <p className="text-muted">She packed her seven versalia, put her initial into the belt and made herself on the way..</p>
                                 <div className="mt-3">
-                                    <Link to="JavaScript:Void(0);" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></Link>
+                                    <a href="" className="read-btn">Read More <i className="mdi mdi-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

@@ -9,11 +9,11 @@ class SocialMedia extends React.Component {
                 <div className="row">
                     <div className="col-lg-6">
                         <ul className="list-inline social margin-t-20">
-                            <li className="list-inline-item"> <Link to="JavaScript:Void(0);" className="social-icon"><i className="mdi mdi-facebook"></i></Link></li>
-                            <li className="list-inline-item"> <Link to="JavaScript:Void(0);" className="social-icon"><i className="mdi mdi-twitter"></i></Link></li>
-                            <li className="list-inline-item"> <Link to="JavaScript:Void(0);" className="social-icon"><i className="mdi mdi-linkedin"></i></Link></li>
-                            <li className="list-inline-item"> <Link to="JavaScript:Void(0);" className="social-icon"><i className="mdi mdi-google-plus"></i></Link></li>
-                            <li className="list-inline-item"> <Link to="JavaScript:Void(0);" className="social-icon"><i className="mdi mdi-dribbble"></i></Link></li>
+                            <li className="list-inline-item"> <a href="" className="social-icon"><i className="mdi mdi-facebook"></i></a></li>
+                            <li className="list-inline-item"> <a href="" className="social-icon"><i className="mdi mdi-twitter"></i></a></li>
+                            <li className="list-inline-item"> <a href="" className="social-icon"><i className="mdi mdi-linkedin"></i></a></li>
+                            <li className="list-inline-item"> <a href=""  className="social-icon"><i className="mdi mdi-google-plus"></i></a></li>
+                            <li className="list-inline-item"><a href=""  className="social-icon"><i className="mdi mdi-dribbble"></i></a></li>
                         </ul>
                     </div>
                     <div className="col-lg-3 margin-t-30">
