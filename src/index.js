@@ -28,7 +28,7 @@ class Root extends React.Component {
 			  <Route path={`${process.env.PUBLIC_URL}/home-five`} component={HomeFive}/> 
 			  <Route path={`${process.env.PUBLIC_URL}/home-six`} component={HomeSix}/> 
 			  <Route path={`${process.env.PUBLIC_URL}/home-seven`} component={HomeSeven}/> 
-			  <Route path={`${process.env.PUBLIC_URL}/home-eight`} component={HomeEight}/> 
+			  
 			  <Route path={`${process.env.PUBLIC_URL}/home-nine`} component={HomeNine}/>  
 			  <Route path={`${process.env.PUBLIC_URL}/login`} component={Login}/>    
 			  <Route path={`${process.env.PUBLIC_URL}/password-forget`} component={PasswordForget}/>  
