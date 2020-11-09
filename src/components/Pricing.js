@@ -19,7 +19,7 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box hover-effect">
                         <h4 className="text-uppercase">Digital Marketing</h4>
-                        <h1><Naira>20,000</Naira> </h1>
+                        <h1><Naira>20000</Naira></h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
@@ -35,7 +35,7 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box bg-white hover-effect price-active">
                         <h4 className="text-uppercase">Web Develoment</h4>
-                        <h1><Naira>45,000</Naira></h1>
+                        <h1><Naira>45000</Naira></h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
@@ -51,14 +51,14 @@ class Pricing extends React.Component {
                 <div className="col-lg-4">
                     <div className="text-center pricing-box hover-effect">
                         <h4 className="text-uppercase">Mobile Development</h4>
-                        <h1><Naira>78,000</Naira></h1>
+                        <h1><Naira>78000</Naira></h1>
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
                             <p>HTML <b className="text-custom"></b></p>
                             <p>CSS <b className="text-custom"></b></p>
                             <p>Javascript <b className="text-custom"></b></p>
-                            <p>PHP<b className="text-custom"></b> Domain</p>
+                            <p>PHP<b className="text-cd..custom"></b> Domain</p>
                             <p>MYSQL<b className="text-custom"></b> </p>
                         </div>
                         <Link to="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>

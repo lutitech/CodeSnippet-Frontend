@@ -10,7 +10,7 @@ class PasswordForget extends React.Component {
        <Aux>
 
         <div className="account-home-btn d-none d-sm-block">
-            <Link to="home-one" className="text-white"><i className="mdi mdi-home h1"></i></Link>
+            <Link to="home" className="text-white"><i className="mdi mdi-home h1"></i></Link>
         </div>
         
         <section className="bg-account-pages height-100vh">
@@ -22,7 +22,7 @@ class PasswordForget extends React.Component {
                                 <div className="card account-card">
                                     <div className="card-body">
                                         <div className="text-center mt-3">
-                                            <h3 className="font-weight-bold">  <Link to="home-one" className="text-dark text-uppercase account-pages-logo">Dorsin</Link></h3>
+                                            <h3 className="font-weight-bold">  <Link to="home" className="text-dark text-uppercase account-pages-logo">Codedsnippet</Link></h3>
                                             <p className="text-muted">Reset Password</p>
                                         </div>
                                         <div className="p-3">
