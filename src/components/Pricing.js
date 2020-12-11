@@ -39,11 +39,12 @@ class Pricing extends React.Component {
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
-                            <p>XML <b className="text-custom"></b></p>
-                            <p>JAVA <b className="text-custom"></b></p>
-                            <p>KOTLIN<b className="text-custom"></b></p>
-                            <p>SWIFT<b className="text-custom"></b> </p>
-                            <p>DART<b className="text-custom"></b> </p>
+                            <p>HTML <b className="text-custom"></b></p>
+                            <p>CSS <b className="text-custom"></b></p>
+                            <p>Javascript <b className="text-custom"></b></p>
+                            <p>PHP<b className="text-cd..custom"></b> Domain</p>
+                            <p>MYSQL<b className="text-custom"></b> </p>
+                            
                         </div>
                         <Link to="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>
@@ -55,11 +56,11 @@ class Pricing extends React.Component {
                         <h6 className="text-uppercase text-muted">Billing Per Month</h6>
                         <div className="pricing-border"></div>
                         <div className="plan-features margin-t-30">
-                            <p>HTML <b className="text-custom"></b></p>
-                            <p>CSS <b className="text-custom"></b></p>
-                            <p>Javascript <b className="text-custom"></b></p>
-                            <p>PHP<b className="text-cd..custom"></b> Domain</p>
-                            <p>MYSQL<b className="text-custom"></b> </p>
+                            <p>XML <b className="text-custom"></b></p>
+                            <p>JAVA <b className="text-custom"></b></p>
+                            <p>KOTLIN<b className="text-custom"></b></p>
+                            <p>SWIFT<b className="text-custom"></b> </p>
+                            <p>DART<b className="text-custom"></b> </p>
                         </div>
                         <Link to="/sign-up" className="btn btn-custom waves-effect waves-light margin-t-30">Join Now</Link>
                     </div>

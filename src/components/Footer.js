@@ -8,7 +8,7 @@ class Footer extends React.Component {
             <div className="container">
                 <div className="row">
                     <div className="col-lg-3 margin-t-20">
-                        <h4>DORSIN</h4>
+                        <h4>CODEDSNIPPET</h4>
                         <div className="text-muted margin-t-20">
                             <ul className="list-unstyled footer-list">
                                 <li><Link to="">Home</Link></li>

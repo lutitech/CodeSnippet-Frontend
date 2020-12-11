@@ -4,7 +4,7 @@ import Services from './components/Services';
 import Features from './components/Features';
 import Descriptions from './components/Descriptions';
 import Pricing from './components/Pricing';
-import Team from './components/Team';
+
 import Process from './components/Process';
 import Testi from './components/Testi';
 import Started from './components/Started';
@@ -32,7 +32,7 @@ class Home extends React.Component {
                             <div className="container">
                                 <div className="row">
                                     <div className="col-lg-8 offset-lg-2 text-white text-center">
-                                        <h1 className="home-title">Welcome To Code Snippet! . </h1>
+                                        <h1 className="home-title">Welcome To Lutitech ! . </h1>
                                         <p className="padding-t-15 home-desc">We are a remote software startup with a globally distributed team of Developer. We design and build agile software products and do training for all our technology Stacks.</p>
                                         <p className="play-shadow margin-t-30 margin-l-r-auto"> <Link to="http://vimeo.com/99025203"  className="play-btn video-play-icon"><i className="mdi mdi-play text-center"></i></Link></p>  
                                     </div>
@@ -57,9 +57,7 @@ class Home extends React.Component {
                 {/* Pricing Component*/}
                 <Pricing />
 
-                {/* Team Component*/}
-                <Team />
-
+               
                 {/* Process Component*/}
                 <Process />
 
